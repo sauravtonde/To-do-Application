@@ -52,13 +52,7 @@ npm start
 
 This command starts the development server. You can view the application in your web browser at `http://localhost:3000`.
 
-## Running the tests
 
-Explain how to run the automated tests for this system (if applicable).
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system (if applicable).
 
 ## Built With
 
